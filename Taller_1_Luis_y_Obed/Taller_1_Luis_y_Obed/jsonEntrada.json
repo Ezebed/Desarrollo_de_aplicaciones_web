@@ -1,0 +1,382 @@
+[
+    {
+        "cedula": "25960643",
+        "nombre": "Luis",
+        "apellido": "Blanchard",
+        "edad": "25",
+        "genero": "masculino",
+        "numeroTelefono": [
+            "0414-5003325",
+            "0424-5003325"
+        ],
+        "email": [
+            "luis.blanchard@hotmail.com",
+            "luis.blanchard@gmail.com"
+        ],
+        "estadoCivil": "soltero",
+        "direccion": "Naguanagua",
+        "departamento": "computacion",
+        "cargo": "administrador"
+    },
+    {
+        "cedula": "26727849",
+        "nombre": "Obed",
+        "apellido": "Villegas",
+        "edad": "25",
+        "genero": "masculino",
+        "numeroTelefono": [
+            "0414-4071223",
+            ""
+        ],
+        "email": [
+            "obed.villegas@hotmail.com",
+            ""
+        ],
+        "estadoCivil": "soltero",
+        "direccion": "Calle Merida",
+        "departamento": "computacion",
+        "cargo": "administrador"
+    },
+    {
+        "cedula": "266669090",
+        "nombre": "Gabriel",
+        "apellido": "Ni Idea",
+        "edad": "25",
+        "genero": "masculino",
+        "numeroTelefono": [
+            "0414-1234567",
+            "0424-1234567"
+        ],
+        "email": [
+            "GabrielPeraza@gmail.com",
+            ""
+        ],
+        "estadoCivil": "casado",
+        "direccion": "Naguanagua",
+        "departamento": "Computacion",
+        "cargo": "Programador"
+    },
+    {
+        "cedula": "271890323",
+        "nombre": "Guiredyz",
+        "apellido": "Ni Idea",
+        "edad": "24",
+        "genero": "femenino",
+        "numeroTelefono": [
+            "0414-4255560",
+            ""
+        ],
+        "email": [
+            "Guiredyz456@gmail.com",
+            ""
+        ],
+        "estadoCivil": "casado",
+        "direccion": "Los Mangos",
+        "departamento": "Computacion",
+        "cargo": "Programador"
+    },
+    {
+        "cedula": "24905432",
+        "nombre": "Celeste",
+        "apellido": "Dominguez",
+        "edad": "26",
+        "genero": "femenino",
+        "numeroTelefono": [
+            "0414-1237789",
+            ""
+        ],
+        "email": [
+            "azulceleste24@hotmail.com",
+            ""
+        ],
+        "estadoCivil": "casado",
+        "direccion": "avenida bolivar",
+        "departamento": "quimica",
+        "cargo": "asistente"
+    },
+    {
+        "cedula": "9134556",
+        "nombre": "Selena",
+        "apellido": "Dominguez",
+        "edad": "48",
+        "genero": "femenino",
+        "numeroTelefono": [
+            "0424-4042676",
+            ""
+        ],
+        "email": [
+            "s.dominguez@gmail.com",
+            "selena.dominguez@gmail.com"
+        ],
+        "estadoCivil": "viudo",
+        "direccion": "avenida bolivar",
+        "departamento": "administracion",
+        "cargo": "coordinadora"
+    },
+    {
+        "cedula": "25255696",
+        "nombre": "Jose",
+        "apellido": "De Santes",
+        "edad": "26",
+        "genero": "masculino",
+        "numeroTelefono": [
+            "0414-8524785",
+            "0414-8524786"
+        ],
+        "email": [
+            "jdesantes505@hotmail.com",
+            ""
+        ],
+        "estadoCivil": "soltero",
+        "direccion": "calle merida",
+        "departamento": "matematica",
+        "cargo": "estudiante"
+    },
+    {
+        "cedula": "24494673",
+        "nombre": "Javier",
+        "apellido": "Tovar",
+        "edad": "27",
+        "genero": "masculino",
+        "numeroTelefono": [
+            "0414-1234567",
+            ""
+        ],
+        "email": [
+            "jtovar21@gmail.com",
+            ""
+        ],
+        "estadoCivil": "casado",
+        "direccion": "Plaza de toros",
+        "departamento": "computacion",
+        "cargo": "asistente"
+    },
+    {
+        "cedula": "27123456",
+        "nombre": "Valeria",
+        "apellido": "Lopez",
+        "edad": "22",
+        "genero": "femenino",
+        "numeroTelefono": [
+            "0412-2344059",
+            ""
+        ],
+        "email": [
+            "valeria2424@hotmail.com",
+            ""
+        ],
+        "estadoCivil": "soltero",
+        "direccion": "Ciudad Alianza",
+        "departamento": "Computacion",
+        "cargo": "estudiante"
+    },
+    {
+        "cedula": "25123456",
+        "nombre": "Victor",
+        "apellido": "Lopez",
+        "edad": "24",
+        "genero": "masculino",
+        "numeroTelefono": [
+            "0412-1234567",
+            "0414-1234567"
+        ],
+        "email": [
+            "victor2313@hotmail.com",
+            "victor.lopez@gmail.com"
+        ],
+        "estadoCivil": "soltero",
+        "direccion": "Ciudad Alianza",
+        "departamento": "Computacion",
+        "cargo": "estudiante"
+    },
+    {
+        "cedula": "7777777",
+        "nombre": "Sans",
+        "apellido": "Undertale",
+        "edad": "80",
+        "genero": "otro",
+        "numeroTelefono": [
+            "0414-9201210",
+            ""
+        ],
+        "email": [
+            "funnybones@hotmail.com",
+            ""
+        ],
+        "estadoCivil": "soltero",
+        "direccion": "Narnia",
+        "departamento": "Computacion",
+        "cargo": "Asistente"
+    },
+    {
+        "cedula": "28000313",
+        "nombre": "Skyler",
+        "apellido": "Herrera",
+        "edad": "22",
+        "genero": "otro",
+        "numeroTelefono": [
+            "0414-3330906",
+            ""
+        ],
+        "email": [
+            "s.herrera123@hotmail.com",
+            ""
+        ],
+        "estadoCivil": "casado",
+        "direccion": "Naguanagua",
+        "departamento": "matematica",
+        "cargo": "asistente"
+    },
+    {
+        "cedula": "26789123",
+        "nombre": "Aimara",
+        "apellido": "Sarramera",
+        "edad": "24",
+        "genero": "femenino",
+        "numeroTelefono": [
+            "0414-6667856",
+            ""
+        ],
+        "email": [
+            "ArrozConAguacate@hotmail.com",
+            ""
+        ],
+        "estadoCivil": "soltero",
+        "direccion": "Los Manguitos",
+        "departamento": "Computacion",
+        "cargo": "Asistente"
+    },
+    {
+        "cedula": "27879456",
+        "nombre": "Nardy",
+        "apellido": "Sanches",
+        "edad": "25",
+        "genero": "femenino",
+        "numeroTelefono": [
+            "0424-4846867",
+            ""
+        ],
+        "email": [
+            "NSanchez123@gmail.com",
+            ""
+        ],
+        "estadoCivil": "soltero",
+        "direccion": "Los Manguitos",
+        "departamento": "Computacion",
+        "cargo": "Asistente"
+    },
+    {
+        "cedula": "20456789",
+        "nombre": "Juan",
+        "apellido": "Bodoque",
+        "edad": "40",
+        "genero": "masculino",
+        "numeroTelefono": [
+            "0414-5567765",
+            ""
+        ],
+        "email": [
+            "jbodoque24@hotmail.com",
+            "tormentachina23@gmail.com"
+        ],
+        "estadoCivil": "soltero",
+        "direccion": "Guaparo",
+        "departamento": "Entretenimiento",
+        "cargo": "Contador"
+    },
+    {
+        "cedula": "17345678",
+        "nombre": "Tulio",
+        "apellido": "Triviño",
+        "edad": "45",
+        "genero": "masculino",
+        "numeroTelefono": [
+            "0414-2235678",
+            ""
+        ],
+        "email": [
+            "Tulio31@gmail.com",
+            ""
+        ],
+        "estadoCivil": "concubinato",
+        "direccion": "Maracay",
+        "departamento": "Entretenimiento",
+        "cargo": "Coordinador"
+    },
+    {
+        "cedula": "20123456",
+        "nombre": "Pedro",
+        "apellido": "Perez",
+        "edad": "28",
+        "genero": "masculino",
+        "numeroTelefono": [
+            "0414-4441234",
+            "0414-4441235"
+        ],
+        "email": [
+            "P.Perez124@hotmail.com",
+            ""
+        ],
+        "estadoCivil": "soltero",
+        "direccion": "La Redoma",
+        "departamento": "Computacion",
+        "cargo": "Programador"
+    },
+    {
+        "cedula": "5905123",
+        "nombre": "Pedro",
+        "apellido": "Picapiedra",
+        "edad": "90",
+        "genero": "masculino",
+        "numeroTelefono": [
+            "0414-5541960",
+            ""
+        ],
+        "email": [
+            "Picapiedra1960@hotmail.com",
+            ""
+        ],
+        "estadoCivil": "casado",
+        "direccion": "Las Rocas",
+        "departamento": "Finanzas",
+        "cargo": "Encargado"
+    },
+    {
+        "cedula": "156464211",
+        "nombre": "Mario",
+        "apellido": "Mario",
+        "edad": "34",
+        "genero": "masculino",
+        "numeroTelefono": [
+            "0412-1648890",
+            "0414-1642224"
+        ],
+        "email": [
+            "MarioMario@hotmail.com",
+            ""
+        ],
+        "estadoCivil": "soltero",
+        "direccion": "Reino Champiñon",
+        "departamento": "Superheroes",
+        "cargo": "Gerente"
+    },
+    {
+        "cedula": "156464212",
+        "nombre": "Luigi",
+        "apellido": "Mario",
+        "edad": "33",
+        "genero": "masculino",
+        "numeroTelefono": [
+            "0412-1648891",
+            "0414-1642225"
+        ],
+        "email": [
+            "LuigiMario@hotmail.com",
+            ""
+        ],
+        "estadoCivil": "soltero",
+        "direccion": "Reino Champiñon",
+        "departamento": "Superheroes",
+        "cargo": "Asistente"
+    }
+]

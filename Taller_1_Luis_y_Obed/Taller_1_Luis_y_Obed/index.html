@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="formStyle.css">
+    <title>Taller 1</title>
+</head>
+<body>
+
+    <div class="contenedor cargarArchivo">
+        <label for="archivoJson">Seleccionar Archivo ".json"</label>
+        <input type="file" name="archivoJson" id="archivoJson">
+    </div>
+
+    <div class="contenedor listaPersonas">
+        <label for="personas">Personas</label>
+        <select name="personas" id="personas">
+            <option value="" selected>Selecione a una persona</option>
+        </select>
+        <button class="submitBtn" id="personaBtn">Cargar</button>
+    </div>
+    
+
+    <div >
+        <span id="indexPersona" class="oculto"></span>
+        <form class="formulario" id="form" method="post" action="">
+            <div class="formPar">
+                <label for="name">Nombre</label>
+                <input id="name" type="text" name="name" required>
+            </div>
+
+            <div class="formPar">
+                <label for="lastName">Apellido</label>
+                <input id="lastName" type="text" name="lastName" required>
+            </div>
+
+            <div class="formPar">
+                <label for="age">Edad</label>
+                <input id="age" type="number" name="age" max="90" min="15" required>
+            </div>
+
+            <div class="formPar">
+                <label for="cedula">Cedula</label>
+                <input id="cedula" type="number" name="cedula" min="1" required>
+            </div>
+            
+            <div class="formPar">
+                <label for="genre">Genero</label>
+                <select name="genre" id="genre" required>
+                    <option value="" disabled selected>Seleccionar Genero</option>
+                    <option value="masculino">Masculino</option>
+                    <option value="femenino">Femenino</option>
+                    <option value="otro">Otro</option>
+                </select>
+            </div>
+            
+            <div class="formPar">
+                <label for="civilState">Estado Civil</label>
+                <select name="civilState" id="civilState" required>
+                    <option value="" selected disabled>Selecionar Estado Civil</option>
+                    <option value="soltero">Soltero</option>
+                    <option value="casado">Casado</option>
+                    <option value="divorciado">Divorsiado</option>
+                    <option value="concubinato">Concubinato</option>
+                    <option value="viudo">Viudo</option>
+                </select>
+            </div>
+            
+            <div class="formPar">
+                <label for="email">correo</label>
+                <div class="doubleInput">
+                    <input id="email" type="email" name="email" required>
+                    <input id="email_2" type="email" name="email" placeholder="Opcional" >
+                </div>
+            </div>
+            
+            <div class="formPar">
+                <label for="phoneNumber">Telefono</label>
+                <div class="doubleInput">
+                    <input id="phoneNumber" type="text" name="phoneNumber" placeholder="****-*******" pattern="^([0-9]{4}-[0-9]{7})$" required>
+                    <input id="phoneNumber_2" type="text" name="phoneNumber" placeholder="Opcional" pattern="^([0-9]{4}-[0-9]{7})$">
+                </div>
+            </div>
+
+            <div class="formPar">
+                <label for="adress">Direccion</label>
+                <input id="adress" type="text" name="adress" required>
+            </div>
+
+            <div class="formPar">
+                <label for="departament">Departamento</label>
+                <input id="departament" type="text" name="departament" required>
+            </div>
+            
+            <div class="formPar">
+                <label for="workPosition">Cargo</label>
+                <input id="workPosition" type="text" name="workPosition" required>
+            </div>
+            <div class="formPar">
+                <input id="formSubmit" class="submitBtn" type="submit" value="Actualizar" >
+            </div>
+        </form>
+    </div>
+
+    <div class="contenedor">
+        <button class="downloadBtn" id="generarArchivoJson" >Guardar Json</button>
+    </div>
+
+    <div>
+        <img class="ads" src="img/ads/ad.gif" alt="publicidad">
+
+        <div class="vBanner" >
+            <img class="ads fixedLeft" src="img/ads/v_ad_1.gif" alt="publicidad izquierda">
+            <img class="ads fixedRigth" src="img/ads/v_ad_2.gif" alt="publicidad derecha">
+        </div>
+    </div>
+
+    <script src="formulario.js" ></script>
+    
+</body>
+</html>

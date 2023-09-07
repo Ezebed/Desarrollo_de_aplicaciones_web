@@ -1,0 +1,15 @@
+[
+	{
+		"cedula": "",
+		"nombre": "",
+		"apellido": "",
+		"edad": "",
+		"genero": "",
+		"numeroTelefono": [],
+		"email": [],
+		"estadoCivil": "",
+		"direccion": "",
+		"departamento": "",
+		"cargo": ""
+	}
+]
